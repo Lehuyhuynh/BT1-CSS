@@ -1,0 +1,21 @@
+*{
+  
+  margin: 0; padding: 0;
+  
+}
+.head
+{
+  background-color: rgb(1, 94, 1);
+  padding: 10px 0 10px 5px;
+}
+h1{
+  color: white;
+}
+.container{
+  display: flexbox;
+  grid-template-columns: repeat(3, 20%);
+}
+img{
+  width: 30%;
+  
+}

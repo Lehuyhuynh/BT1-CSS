@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.head{
+  background-color: greenyellow;
+  padding: 20px;
+}
+h1{
+  color: black;
+}
+h1:hover
+.container{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 15px;
+}

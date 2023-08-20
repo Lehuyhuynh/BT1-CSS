@@ -1,0 +1,18 @@
+*{
+  width: 100%;
+  margin: 0; padding: 0;
+  box-sizing: border-box;
+}
+.head
+{
+  background-color: rgb(1, 94, 1);
+  padding: 10px 0 10px 5px;
+}
+h1{
+  color: white;
+}
+.container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+img

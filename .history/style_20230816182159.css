@@ -1,0 +1,20 @@
+*{
+  width: 100%;
+  margin: 0; padding: 0;
+  box-sizing: border-box;
+}
+.head
+{
+  background-color: rgb(1, 94, 1);
+  padding: 10px 0 10px 5px;
+}
+h1{
+  color: white;
+}
+.container{
+  display
+  grid-template-rows: 1fr 1fr 1fr;
+}
+img{
+  width: 30%;
+}
